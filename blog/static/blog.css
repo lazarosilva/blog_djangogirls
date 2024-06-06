@@ -3,6 +3,10 @@ h1 a, h2 a {
     font-family: 'Lobster';
 }
 
+hr{
+    color:black;
+}
+
 body {
     padding-left: 15px;
 }
